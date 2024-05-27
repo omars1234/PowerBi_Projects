@@ -9,7 +9,7 @@
 
    * [Motor_Insurance_Analysis](https://github.com/omars1234/PowerBi_Projects/blob/5d154da0e47f69a02797fa792145e20b8c745657/PowerBi_Projects/Motor_insurance_Analysis.md)
 
-   * [Auto_Mobile_Price_analysis]()
+   * [Auto_Mobile_Price_analysis](https://github.com/omars1234/PowerBi_Projects/blob/main/PowerBi_Projects/Auto_Mobile_Price_analysis.md)
 
 
    **------------------------------------------------------------------------------------------------------------------------------------**
